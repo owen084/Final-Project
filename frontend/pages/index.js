@@ -76,7 +76,7 @@ import Link from 'next/link'
 
         <img  src="https://i.pinimg.com/736x/03/96/a0/0396a078a999a1b0521bd48e5ff20bc7.jpg" alt="One Piece" width="500" height="500"></img>
 <p>
-        <a href="https://www.facebook.com/"><img  src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png"  width="50" height="50" ></img></a>
+        <a href="https://www.facebook.com/fanpageop/"><img  src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png"  width="50" height="50" ></img></a>
 
         <a href="https://www.instagram.com/littlepig.shopp/?igshid=1oij3vr1kxeu4&fbclid=IwAR04ecKAJjnfKKMAwLHBQ4ckYyFrru4Ksgs4jvIgNvygAtUInAqu18-82Vk">
           <img  src="https://news.artnet.com/app/news-upload/2018/09/2000px-Instagram_logo_2016.svg_.png"  width="50" height="50" ></img></a>      
