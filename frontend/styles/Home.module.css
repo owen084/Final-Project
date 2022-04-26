@@ -5,8 +5,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image : url("https://i.pinimg.com/564x/88/5d/50/885d501d845eabfac16fa53fef2b0616.jpg");
-  color: rgb(16, 12, 248);
+  background-image : url("https://i.pinimg.com/564x/35/11/f9/3511f98647b0556853396d0f7be58ad3.jpg");
+  height: 50%;
+  color: rgb(39, 248, 12);
 }
 
 .content {

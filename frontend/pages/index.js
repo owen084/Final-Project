@@ -78,10 +78,8 @@ import Link from 'next/link'
 <p>
         <a href="https://www.facebook.com/fanpageop/"><img  src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png"  width="50" height="50" ></img></a>
 
-        <a href="https://www.instagram.com/littlepig.shopp/?igshid=1oij3vr1kxeu4&fbclid=IwAR04ecKAJjnfKKMAwLHBQ4ckYyFrru4Ksgs4jvIgNvygAtUInAqu18-82Vk">
-          <img  src="https://news.artnet.com/app/news-upload/2018/09/2000px-Instagram_logo_2016.svg_.png"  width="50" height="50" ></img></a>      
-
-          <a href="https://line.me/R/ti/p/%40zhv2221x"><img  src="https://cdn.icon-icons.com/icons2/846/PNG/512/Line_icon-icons.com_67183.png"  width="50" height="50" ></img></a>   
+        <a href="https://www.bilibili.tv/th/media/37976">
+          <img  src="https://i.pinimg.com/736x/b4/e3/2f/b4e32f895502f90bcca0b3d76105e367.jpg"  width="50" height="50" ></img></a>   
         </p>
         
         

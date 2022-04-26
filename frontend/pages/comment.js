@@ -54,7 +54,7 @@ const comment = ({ token }) => {
             </Head>
             <div className={styles.container}>
                 <Navbar />
-                <h1>User comment</h1>
+                <h1>Comment Me</h1>
                 {comment.length > 0 ? comment.map((dataComent, key) => {
                     return (
                         <div key={key} style={{ display: "flex", flexDirection: "column" }}>
