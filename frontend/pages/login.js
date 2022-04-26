@@ -28,7 +28,7 @@ export default function Login({ token }) {
         }
     }
 
-    const loginForm = () => (
+    const loginForm = () => (  
         <div className={styles.gridContainer}>
             <div>
                 Username:
@@ -50,12 +50,12 @@ export default function Login({ token }) {
                     onChange={(e) => setPassword(e.target.value)} />
             </div>
         </div>
+
     )
 
     const copyText = () => {
         navigator.clipboard.writeText(token)
     }
-
     return (
         <Layout>
             <Head>
@@ -63,9 +63,7 @@ export default function Login({ token }) {
             </Head>
             <div className={styles.container}>
                 <Navbar />
-                <h1>Login</h1>
-                
-                
+                <h1>Login</h1>   
                 <br/>
                 <div>
                     Status:  {status}
@@ -77,11 +75,8 @@ export default function Login({ token }) {
                 </div>
             </div>
         </Layout>
-        
-
     )
 }
-
 export function getServerSideProps({ req, res }) {
     return { props: { token: req.cookies.token || "" } };
 }
