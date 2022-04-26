@@ -68,13 +68,13 @@ import Link from 'next/link'
         <Navbar />
         <br></br>
 
-        <h1>LittlepigShop</h1>
+        <h1>One Piece</h1>
         <h1>welcome</h1>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
 
 
-        <img  src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.6435-9/p843x403/175096253_2893848187520098_2695457136069938488_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=MhrCpVD3CUsAX8matxO&_nc_ht=scontent.fbkk14-1.fna&tp=6&oh=206d6df77fa83dcbf9f47a6477fb2698&oe=60A32CB6" alt="Trulli" width="500" height="500"></img>
+        <img  src="https://i.pinimg.com/736x/03/96/a0/0396a078a999a1b0521bd48e5ff20bc7.jpg" alt="One Piece" width="500" height="500"></img>
 <p>
         <a href="https://www.facebook.com/"><img  src="http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/social-facebook-icon.png"  width="50" height="50" ></img></a>
 
